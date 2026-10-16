@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NYISAY Wheel</string>
+    <string name="status_off">OFF</string>
+    <string name="status_registering">Registar...</string>
+    <string name="status_waiting">A aguardar</string>
+    <string name="status_connected">Ligado</string>
+    <string name="status_failed">Falhou</string>
+</resources>
