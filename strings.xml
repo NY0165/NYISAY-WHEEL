@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NYISAY Volante</string>
+    <string name="calibrate">Calibrar</string>
+    <string name="diagnose">Diagnóstico</string>
+    <string name="settings">Definições</string>
+    <string name="throttle">ACELERADOR</string>
+    <string name="brake">TRAVÃO</string>
+    <string name="shift_up">+</string>
+    <string name="shift_down">−</string>
+    <string name="drs">DRS</string>
+    <string name="ers">ERS</string>
+    <string name="pause">PAUSA</string>
+    <string name="status_off">HID desligado</string>
+    <string name="status_registering">A registar HID…</string>
+    <string name="status_waiting">À espera do PC…</string>
+    <string name="status_connected">Ligado</string>
+    <string name="status_failed">Falha HID (ver T1)</string>
+    <string name="max_angle">Ângulo máx. (°)</string>
+    <string name="filter">Filtro</string>
+    <string name="deadzone">Zona morta</string>
+    <string name="curve">Curva</string>
+    <string name="invert">Inverter direcção</string>
+    <string name="send_hz">Relatórios/s</string>
+    <string name="sim_speed">Vel. simulada</string>
+    <string name="sim_gear">Mudança</string>
+    <string name="sim_rpm">RPM</string>
+</resources>
